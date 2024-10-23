@@ -1,23 +1,25 @@
 # JuliaSet
-You can create julia set with the formula you want and save a 8k image of it.
-
+<p>You can create julia set with the formula you want and save a 8k image of it.</p>
+<p>
 You can use the following keyboard buttons in the program:
-UP arrow : increase y value according to scale (how zoomed in or out you are)
-DOWN arrow : decrease y value according to scale
-RIGHT arrow : increase x value according to scale
-LEFT arrow : decrease x value according to scale
-E : increase r value by 0.01
-Q : decrease r value by 0.01
-C : increase theta value (angle) by 1 degree
-Z : decrease theta value (angle) by 1 degree
-W : increase N value by 0.1
-S : decrease N value by 0.1
-D : increase iteration value by 10
-A : decrease iteration value by 10
-- or _ : Zoom out
-= or + : zoom in
-R : reset the scale to 1
-1 through 5 : change color scheme
-Space bar : Save 8k image in PNG format
-
-!!! The code was created using VS and implements multithreaded computing
+  <ul>
+<li>UP arrow : increase y value according to scale (how zoomed in or out you are)</li>
+<li>DOWN arrow : decrease y value according to scale</li>
+<li>RIGHT arrow : increase x value according to scale</li>
+<li>LEFT arrow : decrease x value according to scale</li>
+<li>E : increase r value by 0.01</li>
+<li>Q : decrease r value by 0.01</li>
+<li>C : increase theta value (angle) by 1 degree</li>
+<li>Z : decrease theta value (angle) by 1 degree</li>
+<li>W : increase N value by 0.1</li>
+<li>S : decrease N value by 0.1</li>
+<li>D : increase iteration value by 10</li>
+<li>A : decrease iteration value by 10</li>
+<li>- or _ : Zoom out</li>
+<li>= or + : zoom in</li>
+<li>R : reset the scale to 1</li>
+<li>1 through 5 : change color scheme</li>
+<li>Space bar : Save 8k image in PNG format</li>
+    </ul>
+</p>
+<p>!!! The code was created using VS and implements multithreaded computing</p>
